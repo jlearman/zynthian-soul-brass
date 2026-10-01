@@ -24,3 +24,7 @@ saxes are panned left and right 45 degrees.
 This repo includes no audio samples.  It uses samples from these packages:
 - Zynthian Factory SFZ's
 - VSCO2
+
+## License
+
+Github [Unlicense](https://unlicense.org), which is equivalent to [CC0](https://creativecommons.org/publicdomain/zero/1.0).  
