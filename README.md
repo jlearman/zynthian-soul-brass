@@ -14,6 +14,7 @@ Each instrument has CC control for
 - volume
 - octave shift
 - pan
+
 By default, all instruments play at the same volume,
 with no octave shift.  Trombone and trumpet are centered,
 saxes are panned left and right 45 degrees.
